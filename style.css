@@ -5,6 +5,15 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.container
+{
+    border: 2px solid black;
+    width: 22%;
+    padding: 30px;
+    border-radius: 20px;
+    background-color: rgb(191, 190, 190);
+}
+
 .button{
     padding: 20px;
     margin: 5px 5px;
@@ -13,3 +22,4 @@ body{
     cursor: pointer;
     width: 52px;
 }
+
